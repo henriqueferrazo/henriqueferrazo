@@ -1,8 +1,8 @@
-<div aling="center">
+<div style="aling=center">
 <h1 style="color= #6d9ff5">HELLO WORLD!! Eu sou Henrique Ferraz 🎮💻 </h1>
 </div
 ##
-<div style="display=flex" aling="center">
+<div style="display=flex" syle="aling=center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriqueferrazo&show_icons=true&theme=tokyonight">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueferrazo&layout=compact)](https://github.com/henriqueferrazo/github-readme-stats&theme=tokyonight">
 </div><br>
