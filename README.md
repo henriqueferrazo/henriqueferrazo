@@ -41,3 +41,7 @@
 <img width="50em" heigth="50em" src="https://cdn-icons-png.flaticon.com/512/281/281769.png">
   <p>henriqueoliver9@gmail.com</p>
  </p>
+ 
+ 
+ 
+ ![Snake animation](https://github.com/henriqueferrazo)
