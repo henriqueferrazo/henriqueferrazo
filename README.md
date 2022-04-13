@@ -10,8 +10,6 @@
  
 ## Ferramentas e tecmologias
   <p align="center">
-  <img width="50em" heigth="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  <img width="50em" heigth="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   <img width="50em" heigth="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img width="50em" heigth="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
   <img width="50em" heigth="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
@@ -34,5 +32,5 @@
 ## Contato 
  <p align="center">
  <a href="https://www.linkedin.com/in/henrique-ferraz-a46123219/"><img width="50em" heigth="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a> 
-<a href="henriqueoliver9@gmail.com"><img width="50em" heigth="50em" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"></a>
+<p><img width="50em" heigth="50em" src="https://cdn-icons-png.flaticon.com/512/281/281769.png">henriqueoliver9@gmail.com</p>
  </p>
