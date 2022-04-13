@@ -32,5 +32,6 @@
 ## Contato 
  <p align="center">
  <a href="https://www.linkedin.com/in/henrique-ferraz-a46123219/"><img width="50em" heigth="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a> 
-<p><img width="50em" heigth="50em" src="https://cdn-icons-png.flaticon.com/512/281/281769.png">henriqueoliver9@gmail.com</p>
+<img width="50em" heigth="50em" src="https://cdn-icons-png.flaticon.com/512/281/281769.png">
+  <p>henriqueoliver9@gmail.com</p>
  </p>
