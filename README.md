@@ -7,8 +7,8 @@
      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueferrazo&layout=compact)]  (https://github.com/henriqueferrazo/github-readme-stats&theme=tokyonight">
      <img  width="150em" heigth="150em" src="Sem Título-3.png">
  </p>
+ 
 ## Ferramentas e tecmologias
-
   <p align="center">
   <img width="50em" heigth="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img width="50em" heigth="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
