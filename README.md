@@ -1,12 +1,12 @@
-<div>
+<div aling="center">
 <h1 style="color= #6d9ff5">HELLO WORLD!! Eu sou Henrique Ferraz 🎮💻 </h1>
 </div
 ##
-<div style="display=flex">
+<div style="display=flex" aling="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriqueferrazo&show_icons=true&theme=tokyonight">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueferrazo&layout=compact)](https://github.com/henriqueferrazo/github-readme-stats&theme=tokyonight">
 </div><br>
-<div>
+<div aling="center">
  <img width="50em" heigth="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
  <img width="50em" heigth="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
  <img width="50em" heigth="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
