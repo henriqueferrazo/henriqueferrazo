@@ -22,11 +22,17 @@
   <img width="50em" heigth="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img width="50em" heigth="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img width="50em" heigth="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />        
- </p>
+  </p>
  
 ## Quero aprender
  <p align="center">
  <img width="50em" heigth="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
  <img width="50em" heigth="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />              
 </p>
-     
+
+
+## Contato 
+ <p align="center">
+ <a href="https://www.linkedin.com/in/henrique-ferraz-a46123219/"<img width="50em" heigth="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a> 
+<a href="henriqueoliver9@gmail.com"><img width="50em" heigth="50em" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"></a>
+ </p>
