@@ -4,7 +4,7 @@
  <br />
   <p align="center">
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriqueferrazo&show_icons=true&theme=tokyonight">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueferrazo&layout=compact)]  (https://github.com/henriqueferrazo/github-readme-stats&theme=tokyonight">
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueferrazo&layout=compact)](https://github.com/henriqueferrazo/github-readme-stats&theme=tokyonight">
 <!--      <img  width="150em" heigth="150em" src="Sem Título-3.png"> -->
  </p>
  
